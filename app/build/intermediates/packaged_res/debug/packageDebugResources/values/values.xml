@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">LiveChat</string>
+    <string name="gcm_defaultSenderId" translatable="false">96010828068</string>
+    <string name="google_api_key" translatable="false">AIzaSyC3CPUSzr_-e73ZRvFhyYTlN7TIug2oIXs</string>
+    <string name="google_app_id" translatable="false">1:96010828068:android:514360fb78e3e8a0441bb1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC3CPUSzr_-e73ZRvFhyYTlN7TIug2oIXs</string>
+    <string name="google_storage_bucket" translatable="false">livechat-5f47f.appspot.com</string>
+    <string name="project_id" translatable="false">livechat-5f47f</string>
+    <style name="Theme.LiveChat" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
